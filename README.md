@@ -1,7 +1,7 @@
-# Food order management webb app
+# Restaurant menu web app
 
 ### Overview
-This Food Order Management System is built using the Django web application
+This Restaurant menu System is built using the Django web application
 framework. It features both a frontend for users to view the menu, and a backend 
 for admins to amend and update the menu.
 
